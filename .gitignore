@@ -34,3 +34,6 @@
 # Data file
 *.in
 test
+
+# Backup file
+*.bak
