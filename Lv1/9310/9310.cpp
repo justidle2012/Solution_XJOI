@@ -1,9 +1,8 @@
-//??
-//http://dev.xjoi.net/problem/8370
+//检查是否偶数
+//http://dev.xjoi.net/problem/9310
 #include <cstdio>
 #include <cmath>
 
-//??????????????
 int main() {
     int n;
     scanf("%d", &n);
