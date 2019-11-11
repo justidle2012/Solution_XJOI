@@ -1,4 +1,4 @@
-//求余数
+//???
 //http://dev.xjoi.net/problem/3569
 #include <cstdio>
 int main() {

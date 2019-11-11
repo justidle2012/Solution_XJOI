@@ -1,4 +1,4 @@
-//数列求和
+//????
 //http://dev.xjoi.net/problem/8352
 #include <cstdio>
 

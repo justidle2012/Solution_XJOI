@@ -1,4 +1,4 @@
-//学整数
+//???
 //http://dev.xjoi.net/problem/3566
 #include <cstdio>
 int main() {
